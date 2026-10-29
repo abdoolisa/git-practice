@@ -1,2 +1,1 @@
-# git-practice
-Just messing with git..
+# My Practice
